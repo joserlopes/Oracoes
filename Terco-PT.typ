@@ -257,4 +257,5 @@ Rogai por nós Santa Mãe de Deus. #text(gray)[Para que sejamos dignos das prome
 _Pelas necessidades da Igreja e do Estado:_ Pai Nosso, Avé Maria, Glória.
 _Pela pessoa e intenções do Senhor Bispo da diocese:_ Pai Nosso, Avé Maria, Glória.
 _Pelas benditas almas do Purgatório:_ Pai Nosso, Avé Maria;
+
 Descansem em paz. #text(gray)[Amen.]
