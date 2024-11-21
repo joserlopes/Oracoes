@@ -18,31 +18,31 @@
   rgb(gray),
 )[Dan. 3,57-88 e 56]
 
-#list(marker: [#rubric_red[1.]])[
+#list(marker: [#rubric_red[1.]], body-indent: 1.1em)[
   Obras do Senhor, bendizei todas o Senhor, louvai-O e exaltai-O para sempre.
 ]
-#list(marker: [*2.*])[
+#list(marker: [*2.*], body-indent: 1.1em)[
   Céus, bendizei o Senhor, Anjos do Senhor bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[3.]])[
+#list(marker: [#rubric_red[3.]], body-indent: 1.1em)[
   Águas que estais sobre os céus, bendizei o Senhor, poderes todos do Senhor, bendizei o Senhor.
 ]
-#list(marker: [*4.*])[
+#list(marker: [*4.*], body-indent: 1.1em)[
   Sol e lua, bendizei o Senhor, estrelas do céu, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[5.]])[
+#list(marker: [#rubric_red[5.]], body-indent: 1.1em)[
   Chuvas e orvalhos, bendizei o Senhor, todos os ventos, bendizei o Senhor.
 ]
-#list(marker: [*6.*])[
+#list(marker: [*6.*], body-indent: 1.1em)[
   Fogo e calor, bendizei o Senhor, frio e geada, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[7.]])[
+#list(marker: [#rubric_red[7.]], body-indent: 1.1em)[
   Orvalhos e gelos, bendizei o Senhor, frios e aragens, bendizei o Senhor.
 ]
-#list(marker: [*8.*])[
+#list(marker: [*8.*], body-indent: 1.1em)[
   Gelos e neves, bendizei o Senhor, noites e dias, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[9.]])[
+#list(marker: [#rubric_red[9.]], body-indent: 1.1em)[
   Luz e trevas, bendizei o Senhor, relâmpagos e nuvens, bendizei o Senhor.
 ]
 #list(marker: [*10.*])[
@@ -84,19 +84,19 @@
 #set page(flipped: true, columns: 2, margin: (y: 2.1cm))
 
 #text(style: "italic", rgb(gray))[Salmo 150]
-#list(marker: [#rubric_red[1.]])[
+#list(marker: [#rubric_red[1.]], body-indent: 1.1em)[
   Louvai o Senhor no seu Santuário, louvai-O no seu majestoso firmamento.
 ]
-#list(marker: [*2.*])[
+#list(marker: [*2.*], body-indent: 1.1em)[
   Louvai-o pela grandeza das suas obras, louvai-O pela sua infinita majestade.
 ]
-#list(marker: [#rubric_red[3.]])[
+#list(marker: [#rubric_red[3.]], body-indent: 1.1em)[
   Louvai-o ao som da trombeta, louvai-O ao som da lira e da cítara.
 ]
-#list(marker: [*4.*])[
+#list(marker: [*4.*], body-indent: 1.1em)[
   Louvai-o com o tímpano e com a dança, louvai-O ao som da harpa e da flauta.
 ]
-#list(marker: [#rubric_red[5.]])[
+#list(marker: [#rubric_red[5.]], body-indent: 1.1em)[
   Louvai-o com címbalos sonoros, louvai-O com címbalos retumbantes. Tudo quanto respira louve ao Senhor.
 ]
 

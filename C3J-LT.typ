@@ -132,7 +132,7 @@ _Glória Patri..._
 
 #rubric_red([℟]). *Et clamor meus ad te véniat.*
 
-*Oremos.* Deus, qui tribus púeris mitigásti flammas ígnium, concéde propítius; ut nos fámulos tuos non exúrat flamma vitiórum.
+*Orémus.* Deus, qui tribus púeris mitigásti flammas ígnium, concéde propítius; ut nos fámulos tuos non exúrat flamma vitiórum.
 
 Actiónes nostras, quǽsumus, Dómine, aspirándo prǽveni et adiuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur.
 
