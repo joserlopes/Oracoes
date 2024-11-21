@@ -1,8 +1,8 @@
-#set page(margin: (x: 6.0cm, y: 1.5cm))
+#set page(margin: (left: 6cm, y: 1cm))
 
-#set text(size: 13pt)
+#set text(size: 13.6pt)
 
-#show par: set block(spacing: 0.8em)
+#set par(spacing: 1.2em)
 
 = #h(1cm)Adoro Te Devote
 
