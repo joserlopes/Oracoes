@@ -8,13 +8,13 @@
 
 #set columns(gutter: 1em)
 
-#set text(size: 9.8pt)
+#set text(size: 9.80pt)
 
 #set list(indent: 1em, marker: ([•]))
 
 #set par()
 
-#show par: set block(spacing: 0.65em)
+#set par(spacing: 0.65em)
 
 #let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
 
@@ -101,6 +101,7 @@
 
 #par(hanging-indent: 1em)[#h(1em)_*Salvé Rainha, Mãe de Misericórdia, vida, doçura, esperança nossa, salvé. A Vós bradamos os degredados filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas; Eia, pois, Advogada nossa, esses Vossos olhos misericordiosos a nós volvei. E depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce Virgem Maria. Rogai por nós, Santa Mão de Deus, para que sejamos dignos das promessas de Cristo.*_]
 
+\
 = #rubric_red([Ladainha de Nossa Senhora])
 
 \

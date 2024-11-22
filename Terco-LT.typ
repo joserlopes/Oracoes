@@ -8,13 +8,11 @@
 
 #set columns(gutter: 1em)
 
-#set text(size: 9.4pt)
+#set text(size: 9.7pt)
 
 #set list(indent: 1em, marker: ([•]))
 
-#set par()
-
-#show par: set block(spacing: 0.65em)
+#set par(spacing: 0.65em)
 
 #let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
 
