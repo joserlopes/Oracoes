@@ -13,10 +13,11 @@
 ]
 
 *Cantemos o cântico que os três jovens cantavam na fornalha ardente, louvando o Senhor.* #text(style: "italic", rgb(gray))[(T.P Aleluia)]
-#text(style: "italic", rgb(gray))[Sentados:] #h(8cm) #text(
-  style: "italic",
-  rgb(gray),
-)[Dan. 3,57-88 e 56]
+#text(style: "italic", rgb(gray))[Sentados:]
+#h(8cm)
+#text(style: "italic", rgb(gray))[
+  Dan. 3,57-88 e 56
+]
 
 #list(marker: [#rubric_red[1.]], body-indent: 1.1em)[
   Obras do Senhor, bendizei todas o Senhor, louvai-O e exaltai-O para sempre.
@@ -78,8 +79,6 @@
 #list(marker: [*20.*])[
   Bendito sejais, Senhor, no firmamento dos céus. A Vós, o louvor e a glória para sempre.
 ]
-
-#pagebreak()
 
 #set page(flipped: true, columns: 2, margin: (y: 2.1cm))
 
