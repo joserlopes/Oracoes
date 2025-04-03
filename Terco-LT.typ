@@ -1,3 +1,5 @@
+#import "lib.typ": rubric_red
+
 #set page(
   margin: (
     x: 0.7em,
@@ -10,13 +12,11 @@
 
 #set text(size: 9.7pt)
 
-#set list(indent: 1em, marker: ([•]))
+#set list(indent: 1em, marker: [•])
 
 #set par(spacing: 0.65em)
 
-#let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
-
-= #rubric_red([Terço])
+= #rubric_red([*Terço*])
 
 \
 #rubric_red([*Estação ao Santíssimo*]) (mesmo esquema da Visita ao Santíssimo)
@@ -102,11 +102,13 @@
 
 #h(1em)#rubric_red([*Salve Regina*])
 
-#par(hanging-indent: 1em)[#h(1em)_*Salve, Regina, Mater misericórdiæ, vita, dulcédo et spes nostra, salve. Ad te clamámus, éxsules fílii Hevæ. Ad te suspirámus geméntes et flentes in hac lacrimárum valle. Éia ergo, advocáta nostra, illos tuos misericórdes óculos ad nos convérte. Et Iesum benedíctum fructum ventris tui, nobis, post hoc exsílium osténde. O clemens, o pia, o dulcis Virgo Maria! Ora pro nobis, Sancta Dei Génitrix. Ut Digni efficiámur promissiónibus Christi.*_]
+#par(
+  hanging-indent: 1em,
+)[#h(1em)_*Salve, Regina, Mater misericórdiæ, vita, dulcédo et spes nostra, salve. Ad te clamámus, éxsules fílii Hevæ. Ad te suspirámus geméntes et flentes in hac lacrimárum valle. Éia ergo, advocáta nostra, illos tuos misericórdes óculos ad nos convérte. Et Iesum benedíctum fructum ventris tui, nobis, post hoc exsílium osténde. O clemens, o pia, o dulcis Virgo Maria! Ora pro nobis, Sancta Dei Génitrix. Ut Digni efficiámur promissiónibus Christi.*_]
 
 #set text(size: 10pt)
 
-= #rubric_red([Litaniæ Lauretanæ Beatæ Mariæ Vírginis])
+= #rubric_red([*Litaniæ Lauretanæ Beatæ Mariæ Vírginis*])
 
 \
 Kýrie, eleison. #text(gray)[Kýrie, eleison.]
@@ -256,7 +258,7 @@ Sub tuum præsídium confúgimus, Sancta Dei Génitrix, nostras deprecationes ne
 Ora pro nobis, Sancta Dei Génitrix. #text(gray)[Ut digni efficiámur promissiónibus Christi.]
 
 \
-#rubric_red([Oremus.]) Grátiam tuam, quæsumus, Dómine, méntibus nostris infunde: ut qui, Angelo nuntiante, Christi Fílii tui Incarnationem cognóvimus, per Passionem eius et Crucem ad Resurrectionis glóriam perducamur. Per eúndem Christum Dóminum nostrum. #text(gray)[Amen.]
+#rubric_red([*Oremus.*]) Grátiam tuam, quæsumus, Dómine, méntibus nostris infunde: ut qui, Angelo nuntiante, Christi Fílii tui Incarnationem cognóvimus, per Passionem eius et Crucem ad Resurrectionis glóriam perducamur. Per eúndem Christum Dóminum nostrum. #text(gray)[Amen.]
 
 \
 _Pelas necessidades da Igreja e do Estado:_ Pai Nosso, Avé Maria, Glória.

@@ -1,3 +1,5 @@
+#import "lib.typ": rubric_red
+
 #set page(
   margin: (
     x: 0.7em,
@@ -16,9 +18,7 @@
 
 #set par(spacing: 0.65em)
 
-#let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
-
-= #rubric_red([Terço])
+= #rubric_red([*Terço*])
 
 \
 #rubric_red([*Estação ao Santíssimo*]) (mesmo esquema da Visita ao Santíssimo)
@@ -104,7 +104,7 @@
 )[#h(1em)_*Salvé Rainha, Mãe de Misericórdia, vida, doçura, esperança nossa, salvé. A Vós bradamos os degredados filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas; Eia, pois, Advogada nossa, esses Vossos olhos misericordiosos a nós volvei. E depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce Virgem Maria. Rogai por nós, Santa Mão de Deus, para que sejamos dignos das promessas de Cristo.*_]
 
 \
-= #rubric_red([Ladainha de Nossa Senhora])
+= #rubric_red([*Ladainha de Nossa Senhora*])
 
 \
 Senhor, tende piedade de nós, #text(gray)[Senhor, tende piedade de nós.]
@@ -254,7 +254,7 @@ Cordeiro de Deus, que tirais o pecado do mundo, #text(gray)[Tende piedade de nó
 Rogai por nós Santa Mãe de Deus. #text(gray)[Para que sejamos dignos das promessa de Cristo.]
 
 \
-#rubric_red([Oremos.]) Concedei, Senhor aos vossos servos a perfeita saúde da alma e do corpo e, por intercessão da Virgem Santa Maria, livrai-nos das tristezas do tempo presente e dai-nos as alegrias eternas. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus convosco na unidade do Espírito Santo. #text(gray)[Amen.]
+#rubric_red([*Oremos.*]) Concedei, Senhor aos vossos servos a perfeita saúde da alma e do corpo e, por intercessão da Virgem Santa Maria, livrai-nos das tristezas do tempo presente e dai-nos as alegrias eternas. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus convosco na unidade do Espírito Santo. #text(gray)[Amen.]
 
 \
 _Pelas necessidades da Igreja e do Estado:_ Pai Nosso, Avé Maria, Glória.

@@ -10,7 +10,10 @@
     ]
   } else if it.level == 2 {
     set text(14pt, navy)
-    align(center)[#it]
+    align(center)[
+      #it
+      #v(1em)
+    ]
   }
 }
 

@@ -1,8 +1,8 @@
+#import "lib.typ": rubric_red
+
 #set page(columns: 2, margin: (y: 1.5cm, x: 1cm))
 
 #set text(size: 14.4pt)
-
-#let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
 
 #place(
   top + center,
@@ -47,23 +47,23 @@
 
 #par(spacing: 0.65em)[
   #rubric_red([℣]). Bendigamos o Pai e o Filho, com o Espírito Santo.
-
+  \
   #rubric_red([℟]). Louvêmo-Lo exaltêmo-Lo por todos os séculos dos séculos.
 ]
 
 #v(0.35em)
 #par(spacing: 0.65em)[
   #rubric_red([℣]). Senhor, escutai a minha oração.
-
+  \
   #rubric_red([℟]). E o meu clamor chegue até Vós.
 ]
 
 #v(0.35em)
 #par(spacing: 0.65em)[
   #rubric_red([_Os sacerdotes acrescentam:_])
-
+  \
   #rubric_red([℣]). O Senhor esteja convosco.
-
+  \
   #rubric_red([℟]). Ele está no meio de nós.
 ]
 

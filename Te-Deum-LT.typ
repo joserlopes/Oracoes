@@ -1,8 +1,8 @@
+#import "lib.typ": rubric_red
+
 #set page(columns: 2, margin: (y: 1.5cm, x: 1cm))
 
 #set text(size: 13.2pt)
-
-#let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
 
 #place(
   top + center,
@@ -47,44 +47,44 @@ In te, Dómine, sperávi: non confúndar in ætérnum.
 
 #par(spacing: 0.65em)[
   #rubric_red([℣]). Benedíctus es, Dómine, Deus patrum nostrórum.
-
+  \
   #rubric_red([℟]). Et laudábilis, et gloriósus in sǽcula.
 ]
 
 #v(0.35em)
 #par(spacing: 0.65em)[
   #rubric_red([℣]). Benedicámus Patrem et Fílium cum Sancto Spíritu.
-
+  \
   #rubric_red([℟]). Laudémus et superexaltémus eum in sǽcula.
 ]
 
 #v(0.35em)
 #par(spacing: 0.65em)[
   #rubric_red([℣]). Benedíctus es, Dómine, in firmaménto cæli.
-
+  \
   #rubric_red([℟]). Et laudábilis, et gloriósus, et superexaltátus in sǽcula.
 ]
 
 #v(0.35em)
 #par(spacing: 0.65em)[
   #rubric_red([℣]). Bénedic, ánima mea, Dómino.
-
+  \
   #rubric_red([℟]). Et noli oblivísci omnes retributiónes eius.
 ]
 
 #v(0.35em)
 #par(spacing: 0.65em)[
   #rubric_red([℣]). Dómine, exáudi oratiónem meam.
-
+  \
   #rubric_red([℟]). Et clamor meus ad te véniat.
 ]
 
 #v(0.35em)
 #par(spacing: 0.65em)[
   #rubric_red([_Sacerdotes addunt:_])
-
+  \
   #rubric_red([℣]). Dóminus vobíscum.
-
+  \
   #rubric_red([℟]). Et cum spíritu tuo.
 ]
 

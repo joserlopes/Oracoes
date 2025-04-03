@@ -1,8 +1,8 @@
+#import "lib.typ": rubric_red
+
 #set page(columns: 2, margin: (y: 2cm, x: 1cm))
 
 #set text(size: 15.6pt)
-
-#let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
 
 #place(
   top + center,
@@ -13,37 +13,37 @@
 
 *_Antífona_:* O Seu reino é um reino eterno e todos os reis O servirão e Lhe obedecerão. #text(style: "italic", rgb(gray))[(T.P Aleluia)]
 
-#list(marker: [#rubric_red[1.]])[
+#list(marker: [#rubric_red[*1.*]])[
   Porque se agitam em tumulto as nações e os povos intentam vãos projetos?
 ]
 #list(marker: [*2.*])[
   Revoltam-se os reis da terra e os príncipes conspiram juntos contra o Senhor e contra o seu Ungido.
 ]
-#list(marker: [#rubric_red[3.]])[
+#list(marker: [#rubric_red[*3.*]])[
   «Quebremos as Suas algemas e atiremos para longe o Seu jugo».
 ]
 #list(marker: [*4.*])[
   Aquele que reina nos céus sorri, o Senhor escarnece deles.
 ]
-#list(marker: [#rubric_red[5.]])[
+#list(marker: [#rubric_red[*5.*]])[
   Então lhes fala com ira e com a Sua cólera os atemoriza:
 ]
 #list(marker: [*6.*])[
   «Fui Eu quem ungiu o meu Rei sobre Sião, minha montanha sagrada».
 ]
-#list(marker: [#rubric_red[7.]])[
+#list(marker: [#rubric_red[*7.*]])[
   Vou proclamar o decreto do Senhor. Ele disse-me: «Tu és meu Filho, Eu hoje te gerei.
 ]
 #list(marker: [*8.*])[
   Pede-me e Eu te darei as nações por herança e os confins da terra para teu domínio.
 ]
-#list(marker: [#rubric_red[9.]])[
+#list(marker: [#rubric_red[*9.*]])[
   Hás-de governá-los com ceptro de ferro e quebrá-los como vasos de barro».
 ]
 #list(marker: [*10.*])[
   E agora, ó reis, tomai sentido, atendei, vós que julgais a terra.
 ]
-#list(marker: [#rubric_red[11.]])[
+#list(marker: [#rubric_red[*11.*]])[
   Servi ao Senhor com temor, aclamai-o com respeito.
 ]
 #list(marker: [*12.*])[

@@ -1,8 +1,8 @@
+#import "lib.typ": rubric_red
+
 #set page(flipped: true, columns: 2, margin: 1cm)
 
-#set text(size: 13.5pt)
-
-#let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
+#set text(size: 13.49pt)
 
 = Ação de Graças depois da Missa
 #line(length: 100%)
@@ -18,61 +18,61 @@
   rgb(gray),
 )[Dan. 3,57-88 et 56]
 
-#list(marker: [#rubric_red[1.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*1.*]], body-indent: 1.1em)[
   Benedícite, ómnia ópera Dómini, Dómino, laudáte et superexaltáte eum in sǽcula.
 ]
 #list(marker: [*2.*], body-indent: 1.1em)[
   Benedícite, cæli, Dómino, benedícite, ángeli Dómini, Dómino.
 ]
-#list(marker: [#rubric_red[3.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*3.*]], body-indent: 1.1em)[
   Benedícite, aquæ omnes, quæ super cælos sunt, Dómino, benedícat omnis virtus, Dómino.
 ]
 #list(marker: [*4.*], body-indent: 1.1em)[
   Benedícite, sol et luna, Dómino, benedícite, stellæ cæli, Dómino.
 ]
-#list(marker: [#rubric_red[5.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*5.*]], body-indent: 1.1em)[
   Benedícite, omnis imber et ros, Dómino, benedícite, omnes venti, Dómino.
 ]
 #list(marker: [*6.*], body-indent: 1.1em)[
   Benedícite, ignis et æstus, Dómino, benedícite, frigus et æstus, Dómino.
 ]
-#list(marker: [#rubric_red[7.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*7.*]], body-indent: 1.1em)[
   Benedícite, rores et prúina, Dómino, benedícite, gelu et frigus, Dómino.
 ]
 #list(marker: [*8.*], body-indent: 1.1em)[
   Benedícite, glácies et nives, Dómino, benedícite, noctes et dies, Dómino.
 ]
-#list(marker: [#rubric_red[9.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*9.*]], body-indent: 1.1em)[
   Benedícite, lux et ténebræ, Dómino, benedícite, fúlgura et nubes, Dómino.
 ]
 #list(marker: [*10.*])[
   Benedícat terra Dóminum, laudet et superexáltet eum in sǽcula.
 ]
-#list(marker: [#rubric_red[11.]])[
+#list(marker: [#rubric_red[*11.*]])[
   Benedícite montes et colles, Dómino, benedícite, univérsa germinántia in terra, Dómino.
 ]
 #list(marker: [*12.*])[
   Benedícite, mária et flúmina, Dómino, benedícite, fontes, Dómino.
 ]
-#list(marker: [#rubric_red[13.]])[
+#list(marker: [#rubric_red[*13.*]])[
   Benedícite, cete et ómnia, quæ movéntur in aquis, Dómino, benedícite, omnes vólucres cæli, Dómino.
 ]
 #list(marker: [*14.*])[
   Benedícite, omnes béstiæ et pécora, Dómino, benedícite, fílii hóminum, Dómino.
 ]
-#list(marker: [#rubric_red[15.]])[
+#list(marker: [#rubric_red[*15.*]])[
   Bénedic, Ísraël, Dómino, laudáte et superexaltáte eum in sǽcula.
 ]
 #list(marker: [*16.*])[
   Benedícite, sacerdótes Dómini, Dómino, benedícite, servi Dómini, Dómino.
 ]
-#list(marker: [#rubric_red[17.]])[
+#list(marker: [#rubric_red[*17.*]])[
   Benedícite, spíritus et ánimæ iustórum, Dómino, benedícite, sancti et húmiles corde, Dómino.
 ]
 #list(marker: [*18.*])[
   Benedícite, Ananía, Azaría, Mísaël, Dómino, laudáte et superexaltáte eum in sǽcula.
 ]
-#list(marker: [#rubric_red[19.]])[
+#list(marker: [#rubric_red[*19.*]])[
   Benedicámus Patrem et Fílium cum Sancto Spíritu; laudémus et superexaltémus eum in sǽcula.
 ]
 #list(marker: [*20.*])[
@@ -84,19 +84,19 @@
 #set page(flipped: true, columns: 2, margin: (y: 3.5cm))
 
 #text(style: "italic", rgb(gray))[Psalmus 150]
-#list(marker: [#rubric_red[1.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*1.*]], body-indent: 1.1em)[
   Laudáte Dóminum in sanctuário eius, laudáte eum in firmaménto virtútis eius.
 ]
 #list(marker: [*2.*], body-indent: 1.1em)[
   Laudáte eum in magnálibus eius, laudáte eum secúndum multitúdinem magnitúdinis eius.
 ]
-#list(marker: [#rubric_red[3.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*3.*]], body-indent: 1.1em)[
   Laudáte eum in sono tubæ, laudáte eum in psaltério et cíthara.
 ]
 #list(marker: [*4.*], body-indent: 1.1em)[
   Laudáte eum in týmpano et choro, laudáte eum in chordis et órgano.
 ]
-#list(marker: [#rubric_red[5.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*5.*]], body-indent: 1.1em)[
   Laudáte eum in cýmbalis benesonántibus, laudáte eum in cýmbalis iubilatiónis: omne quod spirat, laudet Dóminum.
 ]
 

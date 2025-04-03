@@ -1,8 +1,8 @@
+#import "lib.typ": rubric_red
+
 #set page(flipped: true, columns: 2, margin: 1cm)
 
 #set text(size: 14pt)
-
-#let rubric_red(content) = text(rgb("#8a2c1d"))[#content]
 
 = Ação de Graças depois da Missa
 #line(length: 100%)
@@ -19,61 +19,61 @@
   Dan. 3,57-88 e 56
 ]
 
-#list(marker: [#rubric_red[1.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*1.*]], body-indent: 1.1em)[
   Obras do Senhor, bendizei todas o Senhor, louvai-O e exaltai-O para sempre.
 ]
 #list(marker: [*2.*], body-indent: 1.1em)[
   Céus, bendizei o Senhor, Anjos do Senhor bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[3.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*3.*]], body-indent: 1.1em)[
   Águas que estais sobre os céus, bendizei o Senhor, poderes todos do Senhor, bendizei o Senhor.
 ]
 #list(marker: [*4.*], body-indent: 1.1em)[
   Sol e lua, bendizei o Senhor, estrelas do céu, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[5.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*5.*]], body-indent: 1.1em)[
   Chuvas e orvalhos, bendizei o Senhor, todos os ventos, bendizei o Senhor.
 ]
 #list(marker: [*6.*], body-indent: 1.1em)[
   Fogo e calor, bendizei o Senhor, frio e geada, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[7.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*7.*]], body-indent: 1.1em)[
   Orvalhos e gelos, bendizei o Senhor, frios e aragens, bendizei o Senhor.
 ]
 #list(marker: [*8.*], body-indent: 1.1em)[
   Gelos e neves, bendizei o Senhor, noites e dias, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[9.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*9.*]], body-indent: 1.1em)[
   Luz e trevas, bendizei o Senhor, relâmpagos e nuvens, bendizei o Senhor.
 ]
 #list(marker: [*10.*])[
   Bendiga a terra o Senhor, louve-O e exalte-O para sempre.
 ]
-#list(marker: [#rubric_red[11.]])[
+#list(marker: [#rubric_red[*11.*]])[
   Montes e colinas, bendizei o Senhor, tudo o que germina na terra bendiga o Senhor.
 ]
 #list(marker: [*12.*])[
   Fontes, bendizei o Senhor, mares e rios, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[13.]])[
+#list(marker: [#rubric_red[*13.*]])[
   Monstros e animais marinhos, bendizei o Senhor, aves do céu, bendizei o Senhor.
 ]
 #list(marker: [*14.*])[
   Animais e rebanhos, bendizei o Senhor, homens, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[15.]])[
+#list(marker: [#rubric_red[*15.*]])[
   Bendiga Israel o Senhor, louve-O e exalte-O para sempre.
 ]
 #list(marker: [*16.*])[
   Sacerdotes do Senhor, bendizei o Senhor, servos do Senhor, bendizei o Senhor.
 ]
-#list(marker: [#rubric_red[17.]])[
+#list(marker: [#rubric_red[*17.*]])[
   Espíritos e almos dos justos, bendizei o Senhor, santos e humildes de coração, bendizei o Senhor
 ]
 #list(marker: [*18.*])[
   Ananias, Azarias, Misael, bendizei o Senhor, louvai-O e exaltai-O para sempre.
 ]
-#list(marker: [#rubric_red[19.]])[
+#list(marker: [#rubric_red[*19.*]])[
   Bendigamos o Pai, o Filho e o Espírito Santo; lovemo-l'O e exaltemo-l'O para sempre
 ]
 #list(marker: [*20.*])[
@@ -83,19 +83,19 @@
 #set page(flipped: true, columns: 2, margin: (y: 2.1cm))
 
 #text(style: "italic", rgb(gray))[Salmo 150]
-#list(marker: [#rubric_red[1.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*1.*]], body-indent: 1.1em)[
   Louvai o Senhor no seu Santuário, louvai-O no seu majestoso firmamento.
 ]
 #list(marker: [*2.*], body-indent: 1.1em)[
   Louvai-o pela grandeza das suas obras, louvai-O pela sua infinita majestade.
 ]
-#list(marker: [#rubric_red[3.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*3.*]], body-indent: 1.1em)[
   Louvai-o ao som da trombeta, louvai-O ao som da lira e da cítara.
 ]
 #list(marker: [*4.*], body-indent: 1.1em)[
   Louvai-o com o tímpano e com a dança, louvai-O ao som da harpa e da flauta.
 ]
-#list(marker: [#rubric_red[5.]], body-indent: 1.1em)[
+#list(marker: [#rubric_red[*5.*]], body-indent: 1.1em)[
   Louvai-o com címbalos sonoros, louvai-O com címbalos retumbantes. Tudo quanto respira louve ao Senhor.
 ]
 
