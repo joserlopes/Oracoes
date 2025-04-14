@@ -1,5 +1,5 @@
-#set par(leading: 0.7em) // Controls vertical space between lines
-#set block(spacing: 0.5em) // Controls space between paragraphs
+#set par(leading: 0.7em)
+#set block(spacing: 0.5em)
 #set text(size: 9.5pt, font: "Open Sans")
 
 #let framed-page(body, x_padding: 1cm, y_padding: 2cm) = {

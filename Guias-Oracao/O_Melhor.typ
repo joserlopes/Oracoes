@@ -1,9 +1,8 @@
-#set page(paper: "a5")
-#set text(size: 13pt)
+#set text(size: 18.5pt)
 
 #show heading: it => {
   if it.level == 1 {
-    set text(17pt, navy)
+    set text(25pt, navy)
     align(center)[
       #it
       #v(1em)
