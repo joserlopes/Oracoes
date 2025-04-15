@@ -1,7 +1,7 @@
 #let prayer-section(title) = {
   block(
     width: 100%,
-    fill: rgb("#333333"),
+    fill: rgb("#000000"),
     inset: 1.5pt,
     above: 0.5em,
     below: 0.5em,
@@ -9,6 +9,7 @@
       white,
       weight: "bold",
       title,
+      size: 5.8pt,
     ),
   )
 }
@@ -18,12 +19,12 @@
 #let prayer-content(body) = {
   block(
     width: 100%,
-    inset: (left: 1.5pt, right: 1.5pt), // Indent from the left only
+    inset: (left: 1.5pt, right: 1.5pt),
     text(body),
   )
 }
 
-#set document(title: "Orações Católicas", author: "")
+#set document(title: "Orações Católicas")
 
 #set page(
   width: 7.5cm,
@@ -31,7 +32,7 @@
   margin: (x: 0.1cm, y: 0.1cm),
   background: box(
     width: 97.2%,
-    height: 97.5%,
+    height: 98.6%,
     stroke: (thickness: 0.1pt, paint: black),
     inset: 0pt,
   ),
@@ -156,7 +157,7 @@
 
 #pagebreak()
 
-#set text(font: "Open Sans", size: 4.95pt, main-text)
+#set text(font: "Open Sans", size: 5pt, main-text)
 
 #prayer-section("Terço")
 
@@ -190,21 +191,25 @@
 
 #prayer-content([
   #box(
-    height: 40pt,
-    columns(2)[
-      #underline([*Mistérios Dolorosos*]) (*3ª e 6ª feira*)
-      + A Oração de Jesus no Horto
-      + A Flagelação
-      + A Coroação de Espinhos
-      + Jesus com a Cruz às costas
-      + Jesus morre na Cruz
-      #underline([*Mistérios Gloriosos*]) (*4ª e Domingo*)
-      + A Ressurreição de Nosso Senhor
-      + A Ascenção de Jesus ao Céu
-      + A Vinda do Espírito Santo
-      + A Assunção de Nossa Senhora
-      + A Coroação de Maria Santíssima
-    ],
+    grid(
+      columns: (1fr, 1fr),
+      column-gutter: 15pt,
+      [
+        #underline([*Mistérios Dolorosos*]) (*3ª e 6ª feira*)
+        + A Oração de Jesus no Horto
+        + A Flagelação
+        + A Coroação de Espinhos
+        + Jesus com a Cruz às costas
+        + Jesus morre na Cruz
+      ],
+      [#underline([*Mistérios Gloriosos*]) (*4ª e Domingo*)
+        + A Ressurreição de Nosso Senhor
+        + A Ascenção de Jesus ao Céu
+        + A Vinda do Espírito Santo
+        + A Assunção de Nossa Senhora
+        + A Coroação de Maria Santíssima
+      ],
+    ),
   )
   Avé Maria, Filha de Deus Pai, cheia de graça...
 
@@ -384,7 +389,7 @@
 #prayer-content([
   - _Pelas necessidades da Igreja e do Estado:_ Pai Nosso, Avé Maria, Glória.
   - _Pela pessoa e intenções do Senhor Bispo da diocese:_ Pai Nosso, Avé Maria, Glória.
-  - _Pelas benditas almas do Purgatório:_ Pai Nosso, Avé Maria;
+  - _Pelas benditas almas do Purgatório:_ Pai Nosso, Avé Maria,
 
-  Descansem em paz. *Ámen.*
+    Descansem em paz. *Ámen.*
 ])
