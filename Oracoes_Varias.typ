@@ -5,23 +5,14 @@
     inset: 1.5pt,
     above: 0.5em,
     below: 0.5em,
-    text(
-      white,
-      weight: "bold",
-      title,
-      size: 5.8pt,
-    ),
+    text(white, weight: "bold", title, size: 5.8pt),
   )
 }
 
 #let main-text = rgb("#333333")
 
 #let prayer-content(body) = {
-  block(
-    width: 100%,
-    inset: (left: 1.5pt, right: 1.5pt),
-    text(body),
-  )
+  block(width: 100%, inset: (left: 1.5pt, right: 1.5pt), text(body))
 }
 
 #set document(title: "Orações Católicas")
@@ -39,10 +30,7 @@
 )
 
 #set text(font: "Open Sans", size: 5.1pt, main-text)
-#set par(
-  justify: true,
-  spacing: 0.5em,
-)
+#set par(justify: true, spacing: 0.5em)
 
 #set enum(indent: 0.5em)
 
@@ -190,27 +178,25 @@
 ])
 
 #prayer-content([
-  #box(
-    grid(
-      columns: (1fr, 1fr),
-      column-gutter: 15pt,
-      [
-        #underline([*Mistérios Dolorosos*]) (*3ª e 6ª feira*)
-        + A Oração de Jesus no Horto
-        + A Flagelação
-        + A Coroação de Espinhos
-        + Jesus com a Cruz às costas
-        + Jesus morre na Cruz
-      ],
-      [#underline([*Mistérios Gloriosos*]) (*4ª e Domingo*)
-        + A Ressurreição de Nosso Senhor
-        + A Ascenção de Jesus ao Céu
-        + A Vinda do Espírito Santo
-        + A Assunção de Nossa Senhora
-        + A Coroação de Maria Santíssima
-      ],
-    ),
-  )
+  #box(grid(
+    columns: (1fr, 1fr),
+    column-gutter: 15pt,
+    [
+      #underline([*Mistérios Dolorosos*]) (*3ª e 6ª feira*)
+      + A Oração de Jesus no Horto
+      + A Flagelação
+      + A Coroação de Espinhos
+      + Jesus com a Cruz às costas
+      + Jesus morre na Cruz
+    ],
+    [#underline([*Mistérios Gloriosos*]) (*4ª e Domingo*)
+      + A Ressurreição de Nosso Senhor
+      + A Ascenção de Jesus ao Céu
+      + A Vinda do Espírito Santo
+      + A Assunção de Nossa Senhora
+      + A Coroação de Maria Santíssima
+    ],
+  ))
   Avé Maria, Filha de Deus Pai, cheia de graça...
 
   Avé Maria, Mãe de Deus Filho, cheia de graça...
@@ -250,121 +236,119 @@
   Santíssima Trindade, que sois um só Deus, *tende piedade de nós.*
 
   #v(0.5em)
-  #box(
-    grid(
-      columns: (1fr, 1fr),
-      column-gutter: -30pt,
-      [
-        Santa Maria,
+  #box(grid(
+    columns: (1fr, 1fr),
+    column-gutter: -30pt,
+    [
+      Santa Maria,
 
-        Santa Mãe de Deus,
+      Santa Mãe de Deus,
 
-        Santa Virgem das Virgens,
+      Santa Virgem das Virgens,
 
-        Mãe de Cristo,
+      Mãe de Cristo,
 
-        Mãe da Igreja,
+      Mãe da Igreja,
 
-        Mãe da Misericórdia,
+      Mãe da Misericórdia,
 
-        Mãe da divina graça,
+      Mãe da divina graça,
 
-        Mãe da Esperança,
+      Mãe da Esperança,
 
-        Mãe puríssima,
+      Mãe puríssima,
 
-        Mãe castíssima,
+      Mãe castíssima,
 
-        Mãe imaculada,
+      Mãe imaculada,
 
-        Mãe intacta,
+      Mãe intacta,
 
-        Mãe amável,
+      Mãe amável,
 
-        Mãe admirável,
+      Mãe admirável,
 
-        Mãe do bom conselho,
+      Mãe do bom conselho,
 
-        Mãe do Criador,
+      Mãe do Criador,
 
-        Mãe do Salvador,
+      Mãe do Salvador,
 
-        Virgem prudentíssima,
+      Virgem prudentíssima,
 
-        Virgem venerável,
+      Virgem venerável,
 
-        Virgem louvável,
+      Virgem louvável,
 
-        Virgem poderosa,
+      Virgem poderosa,
 
-        Virgem clemente,
+      Virgem clemente,
 
-        Virgem fiel,
+      Virgem fiel,
 
-        Espelho de justiça,
+      Espelho de justiça,
 
-        Sede de sabedoria,
+      Sede de sabedoria,
 
-        Causa da nossa alegria,
+      Causa da nossa alegria,
 
-        Vaso espiritual,
+      Vaso espiritual,
 
-      ],
-      [Vaso honorífico,
+    ],
+    [Vaso honorífico,
 
-        Vaso insigne de devoção,
+      Vaso insigne de devoção,
 
-        Rosa mística,
+      Rosa mística,
 
-        Torre de David,
+      Torre de David,
 
-        Torre de marfim,
+      Torre de marfim,
 
-        Casa de ouro,
+      Casa de ouro,
 
-        Arca da Aliança
+      Arca da Aliança
 
-        Porta do Céu,
+      Porta do Céu,
 
-        Estrela da manhã,
+      Estrela da manhã,
 
-        Saúde dos enfermos,
+      Saúde dos enfermos,
 
-        Refúgio dos pecadores,
+      Refúgio dos pecadores,
 
-        Ajuda dos migrantes,
+      Ajuda dos migrantes,
 
-        Consoladora dos aflitos,
+      Consoladora dos aflitos,
 
-        Auxílio dos cristãos,
+      Auxílio dos cristãos,
 
-        Rainha dos Anjos,
+      Rainha dos Anjos,
 
-        Rainha dos Patriarcas,
+      Rainha dos Patriarcas,
 
-        Rainha dos Profetas,
+      Rainha dos Profetas,
 
-        Rainha dos Apóstolos,
+      Rainha dos Apóstolos,
 
-        Rainha dos Mártires,
+      Rainha dos Mártires,
 
-        Rainha dos Confessores,
+      Rainha dos Confessores,
 
-        Rainha das Virgens,
+      Rainha das Virgens,
 
-        Rainha de todos os Santos,
+      Rainha de todos os Santos,
 
-        Rainha concebida sem mácula do pecado original,
+      Rainha concebida sem mácula do pecado original,
 
-        Rainha elevada ao Céu em corpo e alma,
+      Rainha elevada ao Céu em corpo e alma,
 
-        Rainha do Santíssimo Rosário,
+      Rainha do Santíssimo Rosário,
 
-        Rainha da Família,
+      Rainha da Família,
 
-        Rainha da Paz. #h(3.8em) *...Rogai por nós.*],
-    ),
-  )
+      Rainha da Paz. #h(3.8em) *...Rogai por nós.*],
+  ))
 ])
 
 #v(0.5em)
