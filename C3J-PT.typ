@@ -68,7 +68,7 @@
   Sacerdotes do Senhor, bendizei o Senhor, servos do Senhor, bendizei o Senhor.
 ]
 #list(marker: [#rubric_red[*17.*]])[
-  Espíritos e almos dos justos, bendizei o Senhor, santos e humildes de coração, bendizei o Senhor
+  Espíritos e almas dos justos, bendizei o Senhor, santos e humildes de coração, bendizei o Senhor
 ]
 #list(marker: [*18.*])[
   Ananias, Azarias, Misael, bendizei o Senhor, louvai-O e exaltai-O para sempre.
@@ -105,34 +105,34 @@ _Glória ao Pai..._
 
 #text(style: "italic", rgb(gray))[De pé:]
 
-#rubric_red([℣]). Senhor, tende piedade de nós.
+#rubric_red([℣.]) Senhor, tende piedade de nós.
 
-#rubric_red([℟]). *Cristo, tende piedade de nós. Senhor, tende piedade de nós.*
+#rubric_red([℟.]) *Cristo, tende piedade de nós. Senhor, tende piedade de nós.*
 
-#rubric_red([℣]). Pai Nosso. (_Em silêncio_)
+#rubric_red([℣.]) Pai Nosso. (_Em silêncio_)
 
-#rubric_red([℣]). E não nos deixeis cair em tentação.
+#rubric_red([℣.]) E não nos deixeis cair em tentação.
 
-#rubric_red([℟]). *Mas livrai-nos do mal*
+#rubric_red([℟.]) *Mas livrai-nos do mal*
 
-#rubric_red([℣]). Todas as Vossas obras Vos louvem, Senhor.
+#rubric_red([℣.]) Todas as Vossas obras Vos louvem, Senhor.
 
-#rubric_red([℟]). *E os Vossos santos Vos bendigam.*
+#rubric_red([℟.]) *E os Vossos santos Vos bendigam.*
 
-#rubric_red([℣]). Os santos exultarão da glória.
+#rubric_red([℣.]) Os santos exultarão da glória.
 
-#rubric_red([℟]). *E alegrar-se-ão nas suas moradas.*
+#rubric_red([℟.]) *E alegrar-se-ão nas suas moradas.*
 
-#rubric_red([℣]). Não a nós, Senhor, não a nós.
+#rubric_red([℣.]) Não a nós, Senhor, não a nós.
 
-#rubric_red([℟]). *Mas ao Vosso nome dai glória.*
+#rubric_red([℟.]) *Mas ao Vosso nome dai glória.*
 
-#rubric_red([℣]). Ouvi, Senhor, a minha oração.
+#rubric_red([℣.]) Ouvi, Senhor, a minha oração.
 
-#rubric_red([℟]). *E o meu clamor chegue até Vós.*
+#rubric_red([℟.]) *E o meu clamor chegue até Vós.*
 
 *Oremos.* Ó Deus, que suavizastes as chamas do fogo aos três jovens, concedei-nos, pela Vossa misericórdia, que nos deixemos abrasar pelos vícios.
 
 Infundi, Senhor, a Vossa graça nas nossas ações e ajudai-nos com ela a terminá-las, a fim de que todos os nossos trabalhos e orações em Vós comecem e acabem sempre.
 
-Dai-nos, Senhor, a graça de extinguir o ardor dos vícios. Vós que concedestes a virtude ao bem aventurado Lourenço de vencer o fogo do martírio. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo. #rubric_red([℟]) *Amen.*
+Dai-nos, Senhor, a graça de extinguir o ardor dos vícios. Vós que concedestes a virtude ao bem aventurado Lourenço de vencer o fogo do martírio. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo. *Amen.*

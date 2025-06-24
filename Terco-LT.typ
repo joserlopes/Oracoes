@@ -100,7 +100,7 @@
 - _Avé Maria, Mãe de Deus Filho, cheia de graça, ..._
 - _Avé Maria, Esposa de Deus Espírito Santo, cheia de graça, ..._
 
-#h(1em)#rubric_red([*Salve Regina*])
+#rubric_red([*Salve Regina*])
 
 #par(
   hanging-indent: 1em,
@@ -132,118 +132,115 @@ Spíritus Sancte, Deus, #text(gray)[Miserere nobis.]
 Sancta Trínitas, unus Deus, #text(gray)[Miserere nobis.]
 
 \
-#box(
-  height: 360pt,
-  columns(2)[
-    Sancta Maria,
+#box(height: 360pt, columns(2)[
+  Sancta Maria,
 
-    Sancta Dei Génitrix,
+  Sancta Dei Génitrix,
 
-    Sancta Virgo vírginum,
+  Sancta Virgo vírginum,
 
-    Mater Christi,
+  Mater Christi,
 
-    Mater Ecclésiæ,
+  Mater Ecclésiæ,
 
-    Mater Misericordiae
+  Mater Misericordiae
 
-    Mater divinæ grátiæ,
+  Mater divinæ grátiæ,
 
-    Mater Spei
+  Mater Spei
 
-    Mater puríssima,
+  Mater puríssima,
 
-    Mater castíssima,
+  Mater castíssima,
 
-    Mater inviolata,
+  Mater inviolata,
 
-    Mater intemerata,
+  Mater intemerata,
 
-    Mater amábilis,
+  Mater amábilis,
 
-    Mater admirábilis,
+  Mater admirábilis,
 
-    Mater boni consílii,
+  Mater boni consílii,
 
-    Mater Creatoris,
+  Mater Creatoris,
 
-    Mater Salvatoris,
+  Mater Salvatoris,
 
-    Virgo prudentíssima,
+  Virgo prudentíssima,
 
-    Virgo veneranda,
+  Virgo veneranda,
 
-    Virgo prædicanda,
+  Virgo prædicanda,
 
-    Virgo potens,
+  Virgo potens,
 
-    Virgo clemens,
+  Virgo clemens,
 
-    Virgo fidelis,
+  Virgo fidelis,
 
-    Spéculum iustítiæ,
+  Spéculum iustítiæ,
 
-    Sedes sapiéntiæ,
+  Sedes sapiéntiæ,
 
-    Causa nostræ lætítiæ,
+  Causa nostræ lætítiæ,
 
-    Vas spirituale,
+  Vas spirituale,
 
-    Vas honorábile,
+  Vas honorábile,
 
-    Vas insigne devotionis,
+  Vas insigne devotionis,
 
-    Rosa mýstica,
+  Rosa mýstica,
 
-    Turris Davídica,
+  Turris Davídica,
 
-    Turris ebúrnea,
+  Turris ebúrnea,
 
-    Domus áurea,
+  Domus áurea,
 
-    Foéderis arca,
+  Foéderis arca,
 
-    Iánua cœli,
+  Iánua cœli,
 
-    Stella matutina,
+  Stella matutina,
 
-    Salus infirmorum,
+  Salus infirmorum,
 
-    Refúgium peccatorum,
+  Refúgium peccatorum,
 
-    Solacium migrantium
+  Solacium migrantium
 
-    Consolatrix afflictorum,
+  Consolatrix afflictorum,
 
-    Auxílium christianorum,
+  Auxílium christianorum,
 
-    Regina Angelorum,
+  Regina Angelorum,
 
-    Regina Patriarcharum,
+  Regina Patriarcharum,
 
-    Regina Prophetarum,
+  Regina Prophetarum,
 
-    Regina Apostolorum,
+  Regina Apostolorum,
 
-    Regina Mártyrum,
+  Regina Mártyrum,
 
-    Regina Confessorum,
+  Regina Confessorum,
 
-    Regina Vírginum,
+  Regina Vírginum,
 
-    Regina Sanctórum ómnium,
+  Regina Sanctórum ómnium,
 
-    Regina sine labe originali concepta,
+  Regina sine labe originali concepta,
 
-    Regina in cœlum assumpta,
+  Regina in cœlum assumpta,
 
-    Regina sacratíssimi Rosárii,
+  Regina sacratíssimi Rosárii,
 
-    Regina famíliæ,
+  Regina famíliæ,
 
-    Regina pacis, #h(1.1em) #text(gray)[[Ora pro nobis.]]
-  ],
-)
+  Regina pacis, #h(1.1em) #text(gray)[[Ora pro nobis.]]
+])
 
 #v(0.5em)
 Agnus Dei, qui tollis peccata mundi, #text(gray)[Parce nobis, Dómine.]

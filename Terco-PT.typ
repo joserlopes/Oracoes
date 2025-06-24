@@ -97,7 +97,7 @@
 - _Avé Maria, Mãe de Deus Filho, cheia de graça, ..._
 - _Avé Maria, Esposa de Deus Espírito Santo, cheia de graça, ..._
 
-#h(1em)#rubric_red([*Salvé Rainha*])
+#rubric_red([*Salvé Rainha*])
 
 #par(
   hanging-indent: 1em,
@@ -128,118 +128,115 @@ Espírito Santo, que sois Deus, #text(gray)[tende piedade de nós.]
 Santíssima Trindade, que sois um só Deus, #text(gray)[tende piedade de nós.]
 
 \
-#box(
-  height: 360pt,
-  columns(2)[
-    Santa Maria,
+#box(height: 360pt, columns(2)[
+  Santa Maria,
 
-    Santa Mãe de Deus,
+  Santa Mãe de Deus,
 
-    Santa Virgem das Virgens,
+  Santa Virgem das Virgens,
 
-    Mãe de Cristo,
+  Mãe de Cristo,
 
-    Mãe da Igreja,
+  Mãe da Igreja,
 
-    Mãe da Misericórdia,
+  Mãe da Misericórdia,
 
-    Mãe da divina graça,
+  Mãe da divina graça,
 
-    Mãe da Esperança,
+  Mãe da Esperança,
 
-    Mãe puríssima,
+  Mãe puríssima,
 
-    Mãe castíssima,
+  Mãe castíssima,
 
-    Mãe imaculada,
+  Mãe imaculada,
 
-    Mãe intacta,
+  Mãe intacta,
 
-    Mãe amável,
+  Mãe amável,
 
-    Mãe admirável,
+  Mãe admirável,
 
-    Mãe do bom conselho,
+  Mãe do bom conselho,
 
-    Mãe do Criador,
+  Mãe do Criador,
 
-    Mãe do Salvador,
+  Mãe do Salvador,
 
-    Virgem prudentíssima,
+  Virgem prudentíssima,
 
-    Virgem venerável,
+  Virgem venerável,
 
-    Virgem louvável,
+  Virgem louvável,
 
-    Virgem poderosa,
+  Virgem poderosa,
 
-    Virgem clemente,
+  Virgem clemente,
 
-    Virgem fiel,
+  Virgem fiel,
 
-    Espelho de justiça,
+  Espelho de justiça,
 
-    Sede de sabedoria,
+  Sede de sabedoria,
 
-    Causa da nossa alegria,
+  Causa da nossa alegria,
 
-    Vaso espiritual,
+  Vaso espiritual,
 
-    Vaso honorífico,
+  Vaso honorífico,
 
-    Vaso insigne de devoção,
+  Vaso insigne de devoção,
 
-    Rosa mística,
+  Rosa mística,
 
-    Torre de David,
+  Torre de David,
 
-    Torre de marfim,
+  Torre de marfim,
 
-    Casa de ouro,
+  Casa de ouro,
 
-    Arca da Aliança
+  Arca da Aliança
 
-    Porta do Céu,
+  Porta do Céu,
 
-    Estrela da manhã,
+  Estrela da manhã,
 
-    Saúde dos enfermos,
+  Saúde dos enfermos,
 
-    Refúgio dos pecadores,
+  Refúgio dos pecadores,
 
-    Ajuda dos migrantes,
+  Ajuda dos migrantes,
 
-    Consoladora dos aflitos,
+  Consoladora dos aflitos,
 
-    Auxílio dos cristãos,
+  Auxílio dos cristãos,
 
-    Rainha dos Anjos,
+  Rainha dos Anjos,
 
-    Rainha dos Patriarcas,
+  Rainha dos Patriarcas,
 
-    Rainha dos Profetas,
+  Rainha dos Profetas,
 
-    Rainha dos Apóstolos,
+  Rainha dos Apóstolos,
 
-    Rainha dos Mártires,
+  Rainha dos Mártires,
 
-    Rainha dos Confessores,
+  Rainha dos Confessores,
 
-    Rainha das Virgens,
+  Rainha das Virgens,
 
-    Rainha de todos os Santos,
+  Rainha de todos os Santos,
 
-    Rainha concebida sem mácula do pecado original,
+  Rainha concebida sem mácula do pecado original,
 
-    Rainha elevada ao Céu em corpo e alma,
+  Rainha elevada ao Céu em corpo e alma,
 
-    Rainha do Santíssimo Rosário,
+  Rainha do Santíssimo Rosário,
 
-    Rainha da Família,
+  Rainha da Família,
 
-    Rainha da Paz. #h(1.1em) #text(gray)[[Rogai por nós]]
-  ],
-)
+  Rainha da Paz. #h(1.1em) #text(gray)[[Rogai por nós]]
+])
 
 #v(0.5em)
 Cordeiro de Deus, que tirais o pecado do mundo, #text(gray)[Perdoai-nos, Senhor.]

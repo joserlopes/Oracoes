@@ -106,31 +106,31 @@ _Glória Patri..._
 
 #text(style: "italic", rgb(gray))[De pé:]
 
-#rubric_red([℣]). Kyrie, eléison.
+#rubric_red([℣.]) Kyrie, eléison.
 
-#rubric_red([℟]). *Christe, eléison. Kyrie, eléison.*
+#rubric_red([℟.]) *Christe, eléison. Kyrie, eléison.*
 
-#rubric_red([℣]). Pater Noster. (_Em silêncio_)
+#rubric_red([℣.]) Pater Noster. (_Em silêncio_)
 
-#rubric_red([℣]). Et ne nos indúcas in tentatiónem.
+#rubric_red([℣.]) Et ne nos indúcas in tentatiónem.
 
-#rubric_red([℟]). *Sed líbera nos a malo.*
+#rubric_red([℟.]) *Sed líbera nos a malo.*
 
-#rubric_red([℣]). Confiteántur tibi, Dómine, ómnia ópera tua.
+#rubric_red([℣.]) Confiteántur tibi, Dómine, ómnia ópera tua.
 
-#rubric_red([℟]). *Et Sancti tui benedícant tibi.*
+#rubric_red([℟.]) *Et Sancti tui benedícant tibi.*
 
-#rubric_red([℣]). Exsultábunt sancti in glória.
+#rubric_red([℣.]) Exsultábunt sancti in glória.
 
-#rubric_red([℟]). *Lætabúntur in cubílibus suis.*
+#rubric_red([℟.]) *Lætabúntur in cubílibus suis.*
 
-#rubric_red([℣]). Non nobis, Dómine, non nobis.
+#rubric_red([℣.]) Non nobis, Dómine, non nobis.
 
-#rubric_red([℟]). *Sed nómini tuo da glóriam.*
+#rubric_red([℟.]) *Sed nómini tuo da glóriam.*
 
-#rubric_red([℣]). Dómine, exáudi oratiónem meam.
+#rubric_red([℣.]) Dómine, exáudi oratiónem meam.
 
-#rubric_red([℟]). *Et clamor meus ad te véniat.*
+#rubric_red([℟.]) *Et clamor meus ad te véniat.*
 
 *Orémus.* Deus, qui tribus púeris mitigásti flammas ígnium, concéde propítius; ut nos fámulos tuos non exúrat flamma vitiórum.
 
